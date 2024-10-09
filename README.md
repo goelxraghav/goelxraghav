@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raghav Goel.
 - 👀 I’m interested in machine learning, ai, webdev and robotics.
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning webdev.
 - 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me @goelxraghav
 - 😄 Pronouns: He/Him
