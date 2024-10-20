@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Raghav Goel.
-- 👀 I’m interested in machine learning, ai, webdev and robotics.
+- 👀 I’m interested in webdev, machine learning, ai and robotics.
 - 🌱 I’m currently learning webdev.
-- 💞️ I’m looking to collaborate on machine learning projects.
-- 📫 How to reach me @goelxraghav
+- 💞️ I’m looking to collaborate on webdev and machine learning projects.
+- 📫 You can reach me through @goelxraghav on instagram.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I always feel myself new in this field.
 
 <!---
 goelxraghav/goelxraghav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
