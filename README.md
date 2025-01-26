@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Raghav Goel.
-- 👀 I’m interested in webdev, machine learning, ai and robotics.
-- 🌱 I’m currently learning webdev.
-- 💞️ I’m looking to collaborate on webdev and machine learning projects.
-- 📫 You can reach me through @goelxraghav on instagram.
+- 👀 I’m interested in machine learning, AI, and robotics.
+- 🌱 I’m currently learning machine learning.
+- 💞️ I’m looking to collaborate on machine learning projects.
+- 📫 You can reach me through @thissideraghav on instagram.
 - 😄 Pronouns: He/Him
 
 <!---
